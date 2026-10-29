@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reels Blocker</string>
+    <string name="service_label">Reels Blocker</string>
+    <string name="service_description">Watches Instagram and closes the Reels screen during your scheduled block times. The rest of Instagram keeps working. Nothing is collected or sent anywhere.</string>
+</resources>
